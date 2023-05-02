@@ -14,7 +14,7 @@
 
 ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code1.PNG)
 ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code2.PNG)
-![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code1.PNG)
+![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result.PNG)
 
 - вставлений код / текстовий або числовий результат / інші результати:
 - Результати:
