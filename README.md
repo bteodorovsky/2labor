@@ -16,7 +16,7 @@
 ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code2.PNG)
 ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result.PNG)
 
- Результати виконання завдання 2:
+ - Результати виконання завдання 2:
  ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result2.PNG)
  ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result3.PNG)
  ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result4.PNG)
