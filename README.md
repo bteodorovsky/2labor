@@ -12,9 +12,9 @@
     - vi. Написав свій варіант коду з помилкою
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
 
-![alt text](https://github.com/bteodorovsky/2labor/tree/main/images/code1.png)
-![alt text](https://github.com/bteodorovsky/2labor/tree/main/images/code2.png)
-![alt text](https://github.com/bteodorovsky/2labor/tree/main/images/result.png)
+![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code1.PNG)
+![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code2.PNG)
+![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/code1.PNG)
 
 - вставлений код / текстовий або числовий результат / інші результати:
 - Результати:
